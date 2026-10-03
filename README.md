@@ -19,3 +19,4 @@ Demonstrate how adjusting nominal economic series for inflation using the Consum
 - **Base-year choice affects levels, not conclusions.** The explorer shows that changing the base year rescales the real series, while relative changes and the nominal-versus-real divergence remain intact.
 
 ### Takeaway
+Reporting economic series only in nominal terms can materially mislead. Any long-horizon comparison of wages or prices should be deflated to a common base year before drawing conclusions about real economic change.
